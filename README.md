@@ -1,5 +1,3 @@
-Perfect 👍 — here’s your **Employee Management System** README in the same clean, professional format as your Quiz App example:
-
 ---
 
 # 🧑‍💼 Employee Management System
@@ -137,7 +135,6 @@ docker-compose down -v
 ## 🧑‍💻 Author
 
 **Varadraj K Patil**
-DevOps Engineer @ Regime Tax Solution Pvt. Ltd.
 📧 Email: [patilvaradraj18@gmail.com](mailto:patilvaradraj18@gmail.com)
 
 ---
